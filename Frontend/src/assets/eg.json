@@ -1019,7 +1019,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGSIN", 
-        "name": "Shamal Sina'"
+        "name": "North Sinai",
+        "population": 450000
       }, 
       "id": 1
     }, 
@@ -2427,7 +2428,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGASN", 
-        "name": "Aswan"
+        "name": "Aswan",
+        "population": 1500000
       }, 
       "id": 2
     }, 
@@ -6801,7 +6803,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGBA", 
-        "name": "Al Bahr al Ahmar"
+        "name": "Red Sea",
+        "population": 400000
       }, 
       "id": 3
     }, 
@@ -7557,7 +7560,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGMT", 
-        "name": "Matruh"
+        "name": "Matruh",
+        "population": 500000
       }, 
       "id": 4
     }, 
@@ -8917,7 +8921,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGWAD", 
-        "name": "Al Wadi at Jadid"
+        "name": "New Valley (El Wadi El Gedid)",
+        "population": 250000
       }, 
       "id": 5
     }, 
@@ -9401,7 +9406,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGSUZ", 
-        "name": "As Suways"
+        "name": "Suez",
+        "population": 750000
       }, 
       "id": 6
     }, 
@@ -11011,7 +11017,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGJS", 
-        "name": "Janub Sina'"
+        "name": "South Sinai",
+        "population": 150000
       }, 
       "id": 7
     }, 
@@ -11167,7 +11174,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGPTS", 
-        "name": "Bur Sa`id"
+        "name": "Port Said",
+        "population": 750000
       }, 
       "id": 8
     }, 
@@ -12589,7 +12597,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGDK", 
-        "name": "Ad Daqahliyah"
+        "name": "Dakahlia", 
+        "population": 6000000
       }, 
       "id": 9
     }, 
@@ -13403,7 +13412,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGSHR", 
-        "name": "Ash Sharqiyah"
+        "name": "Sharqia", 
+        "population": 7600000
       }, 
       "id": 10
     }, 
@@ -13715,7 +13725,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGIS", 
-        "name": "Al Isma`iliyah"
+        "name": "Ismailia", 
+        "population": 1200000
       }, 
       "id": 11
     }, 
@@ -14495,7 +14506,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGDT", 
-        "name": "Dumyat"
+        "name": "Damietta", 
+        "population": 1500000
       }, 
       "id": 12
     }, 
@@ -15443,7 +15455,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGKFS", 
-        "name": "Kafr ash Shaykh"
+        "name": "Kafr El Sheikh", 
+        "population": 3200000
       }, 
       "id": 13
     }, 
@@ -16355,7 +16368,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGBH", 
-        "name": "Al Buhayrah"
+        "name": "Beheira", 
+        "population": 6200000
       }, 
       "id": 14
     }, 
@@ -16655,7 +16669,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGALX", 
-        "name": "Al Iskandariyah"
+        "name": "Alexandria", 
+        "population": 5200000
       }, 
       "id": 15
     }, 
@@ -16827,7 +16842,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGC", 
-        "name": "Al Qahirah"
+        "name": "Cairo",
+        "population": 9500000
       }, 
       "id": 16
     }, 
@@ -17259,7 +17275,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGGZ", 
-        "name": "Al Jizah"
+        "name": "Giza", 
+        "population": 8000000
       }, 
       "id": 17
     }, 
@@ -17455,7 +17472,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGMN", 
-        "name": "Al Minya"
+        "name": "Minya", 
+        "population": 5900000
       }, 
       "id": 18
     }, 
@@ -17551,7 +17569,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGFYM", 
-        "name": "Al Fayyum"
+        "name": "Faiyum", 
+        "population": 3800000
       }, 
       "id": 19
     }, 
@@ -17751,7 +17770,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGBNS", 
-        "name": "Bani Suwayf"
+        "name": "Beni Suef", 
+        "population": 3300000
       }, 
       "id": 20
     }, 
@@ -18359,7 +18379,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGMNF", 
-        "name": "Al Minufiyah"
+        "name": "Monufia", 
+        "population": 4300000
       }, 
       "id": 21
     }, 
@@ -18795,7 +18816,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGKB", 
-        "name": "Al Qalyubiyah"
+        "name": "Qalyubia", 
+        "population": 5000000
       }, 
       "id": 22
     }, 
@@ -19515,7 +19537,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGGH", 
-        "name": "Al Gharbiyah"
+        "name": "Gharbia", 
+        "population": 5000000
       }, 
       "id": 23
     }, 
@@ -19791,7 +19814,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGSHG", 
-        "name": "Suhaj"
+        "name": "Sohag", 
+        "population": 5300000
       }, 
       "id": 24
     }, 
@@ -20269,7 +20293,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGKN", 
-        "name": "Qina"
+        "name": "Qena", 
+        "population": 3200000
       }, 
       "id": 25
     }, 
@@ -20561,7 +20586,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGAST", 
-        "name": "Asyut"
+        "name": "Asyut", 
+        "population": 4500000
       }, 
       "id": 26
     }, 
@@ -20609,7 +20635,8 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "EGLX", 
-        "name": "Luxor"
+        "name": "Luxor", 
+        "population": 1300000
       }, 
       "id": 27
     }
