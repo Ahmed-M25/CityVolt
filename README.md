@@ -3,7 +3,7 @@
 CityVolt is an AI-powered solution designed to predict and mitigate electricity cuts in Cairo by analyzing historical consumption patterns, weather data, and population growth trends. The project aims to provide accurate forecasts of electricity demand, enabling proactive load management and contributing to a more resilient energy infrastructure.
 
 
-![CityVolt Dashboard](<img width="1319" alt="Screenshot 2024-09-01 at 22 37 48" src="https://github.com/user-attachments/assets/f2dad113-e5b1-41ad-8157-ad7201cc7021">)
+![CityVolt Dashboard](https://github.com/user-attachments/assets/f2dad113-e5b1-41ad-8157-ad7201cc7021)
 
 ## Project Overview
 
