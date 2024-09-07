@@ -19,7 +19,7 @@ const EgyptMap: React.FC = () => {
 
   // Colours inspired by Egypt's landscape
   const getColor = (population: number) => {
-    return population > 10000000 ? '#FF4500' :  
+    return population > 9400000 ? '#FF4500' :  
            population > 5000000  ? '#FF8C00' : 
            population > 2000000  ? '#FFD700' :
            population > 1000000  ? '#ADFF2F' : 
